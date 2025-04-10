@@ -1,0 +1,3 @@
+/Users/ciomar/Systemy/baca_igrzyska/cmake-build-debug/CMakeFiles/baca_igrzyska.dir
+/Users/ciomar/Systemy/baca_igrzyska/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ciomar/Systemy/baca_igrzyska/cmake-build-debug/CMakeFiles/rebuild_cache.dir
